@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Movistar Play",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "https://play.movistar.com.ar/"
+    ],
+    
+    "launch": {
+        "web_url": "https://play.movistar.com.ar/",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}
