@@ -12,6 +12,7 @@
 - Abrir Chrome e introducir `chrome://extensions` en la barra de direcciones.
 - Arrastrar el archivo `.crx` (*Drag and Drop*) en la ventana de Chrome.
 - Instalar la extensión.
+- Ir a `chrome://apps` hacer click derecho sobre el ícono de la aplicación y seleccionar *"Abrir como ventana"* y luego *"Crear íconos..."*.
 
 ## Teclas multimedia
 
