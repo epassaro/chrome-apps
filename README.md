@@ -14,6 +14,8 @@
 - Instalar la extensión.
 - Ir a `chrome://apps` hacer click derecho sobre el ícono de la aplicación y seleccionar *"Abrir como ventana"* y luego *"Crear íconos..."*.
 
+![](https://media.giphy.com/media/IbCu3syLPluvyT0knY/source.gif)
+
 ## Teclas multimedia
 
 Algunos entornos de escritorio incluyen integración completa con Chrome, lo cual permite el uso de teclas multimedia (por ejemplo *KDE Plasma 5.13* en adelante).
