@@ -10,7 +10,7 @@
 
 - Descargar el archivo `.crx` en la pestaña [Releases](https://github.com/epassaro/chrome-apps/releases).
 - Abrir Chrome e introducir `chrome://extensions` en la barra de direcciones.
-- Arrastrar el archivo `.crx` (Drag and Drop) en la ventana de Chrome.
+- Arrastrar el archivo `.crx` (*Drag and Drop*) en la ventana de Chrome.
 - Instalar la extensión.
 
 ## Teclas multimedia
