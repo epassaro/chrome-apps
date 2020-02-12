@@ -2,16 +2,17 @@
 
 ## Apps
 
-- **Netflix**
 - **Deezer**
 - **Movistar Play** (Argentina)
+- **Netflix**
+- **QubitTV**
 
 ## Uso
 
 - Descargar el archivo `.crx` en la pestaña [Releases](https://github.com/epassaro/chrome-apps/releases).
 - Abrir Chrome e introducir `chrome://extensions` en la barra de direcciones.
-- Arrastrar el archivo `.crx` (*Drag and Drop*) en la ventana de Chrome.
-- Instalar la extensión.
+- Activar la casilla *Modo desarrollador*.
+- Arrastrar el archivo `.crx` a la ventana de Chrome y click en *"Añadir"*.
 - Ir a `chrome://apps` hacer click derecho sobre el ícono de la aplicación y seleccionar *"Abrir como ventana"* y luego *"Crear íconos..."*.
 
 ![](https://media.giphy.com/media/IbCu3syLPluvyT0knY/source.gif)
