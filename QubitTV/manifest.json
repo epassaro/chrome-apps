@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "QubitTV",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "http://qubit.tv/"
+    ],
+    
+    "launch": {
+        "web_url": "http://qubit.tv/",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}
