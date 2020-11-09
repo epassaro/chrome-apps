@@ -7,6 +7,7 @@
 - **Deezer**
 - **Movistar Play** (Argentina)
 - **Netflix**
+- **Prime Video**
 - **QubitTV**
 
 ## Uso
