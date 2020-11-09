@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Prime Video",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "https://primevideo.com/"
+    ],
+    
+    "launch": {
+        "web_url": "https://primevideo.com/",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}
