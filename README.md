@@ -1,3 +1,5 @@
+> **Haz tus propias apps para Chrome** utilizando [epassaro/chrome-apps-cookiecutter](https://github.com/epassaro/chrome-apps-cookiecutter)
+
 # chrome-apps
 
 ## Apps
