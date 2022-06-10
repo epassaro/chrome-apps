@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "tardis-sn | Slack",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "https://app.slack.com/client/TA1AATV4Z"
+    ],
+    
+    "launch": {
+        "web_url": "https://app.slack.com/client/TA1AATV4Z",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}

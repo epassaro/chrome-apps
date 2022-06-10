@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "tardis-sn | Gather",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "https://app.gather.town/app/DbSRcAVxzE990q7x/tardis-sn"
+    ],
+    
+    "launch": {
+        "web_url": "https://app.gather.town/app/DbSRcAVxzE990q7x/tardis-sn",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}
