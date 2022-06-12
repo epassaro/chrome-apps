@@ -10,11 +10,11 @@
 "app": {
 
     "urls": [
-        "https://play.movistar.com.ar/"
+        "https://tv.movistar.com.ar/"
     ],
     
     "launch": {
-        "web_url": "https://play.movistar.com.ar/",
+        "web_url": "https://tv.movistar.com.ar/",
         "container": "panel",
         "height": 700,
         "width": 900
