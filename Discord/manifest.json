@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Discord",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+    "128": "128.png"
+},
+
+"app": {
+
+    "urls": [
+        "https://discord.com/channels/@me"
+    ],
+    
+    "launch": {
+        "web_url": "https://discord.com/channels/@me",
+        "container": "panel",
+        "height": 700,
+        "width": 900
+    }
+},
+
+"permissions": [
+    "unlimitedStorage",
+    "notifications"
+    ]
+}
